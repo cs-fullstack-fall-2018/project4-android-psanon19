@@ -12,3 +12,4 @@ Make a family cookbook app that works offline (that's by default).
 
 Notes:
 - Don't forget about Code->Generate for your new class (template).
+- Info on Images: https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors/index.html?index=..%2F..android-training#3
