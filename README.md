@@ -29,7 +29,14 @@ Make a family cookbook app that works offline (by default).
 - Add a menu option to put alternate between a normal color scheme and dark mode.
 - Add a menu option to switch between a Linear Layout and a Grid Layout.
 
-Notes:
+
+<strong>Notes:</strong>
 - Don't forget about Code->Generate for your new class (template).
-- Info on Images: https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors/index.html?index=..%2F..android-training#3
-- Info on click through recyclerview: https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors/index.html?index=..%2F..android-training#4
+
+<strong>Links to Tutorials:</strong>
+- Add new activities and a back button: https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html?index=..%2F..android-training#0
+- Implicit Intents: https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/index.html?index=..%2F..android-training#0
+- Clickable Images: https://codelabs.developers.google.com/codelabs/android-training-clickable-images/index.html?index=..%2F..android-training#0
+- Menus and Pickers: https://codelabs.developers.google.com/codelabs/android-training-menus-and-pickers/index.html?index=..%2F..android-training#0
+- RecyclerView: https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view/index.html?index=..%2F..%2Fandroid-training#0
+- Recyclerview Click Through: https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors/index.html?index=..%2F..android-training#4
