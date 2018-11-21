@@ -3,7 +3,7 @@
 ## Requirements (Total of 20 points)
 
 ### Functionality (17 pts)
-Make a family cookbook app that works offline (by default).
+Make a family cookbook app that works offline (by default). The recyclerview should have an image of the recipe, name, and short description. When clicked, it should provide all recipe details seen below.
 
 #### 3pts
 - Create all cookbook data in the strings.xml file. It should include the title, subtitle, creation date, image, ingredients, and instructions. Load all data into arrays.
