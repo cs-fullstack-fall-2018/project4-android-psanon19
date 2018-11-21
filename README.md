@@ -2,7 +2,7 @@
 
 ## Requirements (Total of 20 points)
 
-### Functionality (15 pts)
+### Functionality (17 pts)
 Make a family cookbook app that works offline (by default).
 
 #### 3pts
