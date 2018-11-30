@@ -1,5 +1,175 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
 <resources>
-    <string name="app_name">RecyclerView</string>
-    <string name="action_settings">Settings</string>
-    <string name="word_title">TextView</string>
+    <string name="app_name">Grandmas Kitchen!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Info</string>
+    <string name="recipe_info_placeholder">Here is some news</string>
+    <string name="subtitle_placeholder">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+
+    <string-array name="recipe_titles">
+        <item>Baseball</item>
+        <item>Butternut Squash and Mushroom Lasagna</item>
+        <item>Cucumber Mint Verrines</item>
+        <item>Bowling</item>
+        <item>Ethiopian Wilted Spinach with Cottage Cheese</item>
+        <item>Golf</item>
+        <item>Red pepper, Feta and Olive Frittata</item>
+        <item>Soccer</item>
+        <item>Vegetable Stir-Fry Sesame Prawns</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="recipe_info">
+        <item>Here is some Baseball news!</item>
+        <item>Earthy mushrooms and sweet squash are layered in this tasty fall lasagna. Adding reconstituted dried porcini to the sauce adds an additional layer of flavor.</item>
+        <item>This Cucumber and Mint Verrine is a lovely summer appetizer, it is cool and refreshing,
+            and helps to cleanse ones palette before the main meal.</item>
+        <item>Here is some Bowling news!</item>
+        <item>A unique blend of wilted greens and spiced cottage cheese makes for a complex and appealing appetizer.</item>
+        <item>Here is some Golf news!</item>
+        <item>Serve this meatless frittata for brunch or a simple supper, accompanied by buttered toast and a tossed green salad.</item>
+        <item>Here is some Soccer news!</item>
+        <item>This quick and tasty main dish has a double hit of sesame oil and seeds that add nutty flavor to crisp peppers and prawns.</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+
+    <string-array name="recipe_details">
+        <item>1</item>
+        <item>Mix cottage cheese, 1 clove of garlic, cardamom and cloves thoroughly in a bowl. Cover and refrigerate until ready to serve.
+            Heat the butter in a frying pan over medium heat. Stir in the onion, ginger, green chilli and 2 cloves of garlic; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the spinach and cook until just wilted. Drain any excess liquid, and serve the spinach mixture over the seasoned cottage cheese.
+            Preheat the oven to 170 C / Gas 3. Line a round baking tin with baking parchment.
+            Combine all of the ingredients into a mixing bowl and stir well. Pour into the prepared baking tin. Cover the tin lightly with aluminium foil.
+            Bake in a preheated oven for 15 minutes. Remove from the oven and allow to cool fully in the tin. Carefully transfer the pudding to a serving plate and chill in the fridge for 1 hour. Serve cold.
+            The first thing to do is make the marinade for the prawns. Chop up a garlic clove, a green chili and a spring onion into bits (just the stalk not the leaves) and put in a bowl.
+            Add several large tablespoons of sesame oil to the bowl and blend using a hand blender (blending the marinade is optional). Alternatively, put in a blender jug.
+            Add the prawns to the bowl with the oil and mix thoroughly. Add more oil if required to ensure that there is enough to soak into the prawns.
+            Cover the bowl and put into the fridge to marinate for 15 minutes or ideally at least an hour. Halfway through that time give the prawns a good stir to ensure even coverage of the marinade.
+            In the meantime, wash brown rice in a saucepan, cover with water, turn on heat to bring to boil. Once boiling turn down the heat and keep simmering for about 20 to 30 minutes. For rice noodles or quinoa check the pack in advance for cooking instructions and follow them, keeping timing in mind.
+            Once rice is on to boil, wash all veg and chop into small even pieces and keep aside.
+            In a wok, add some extra virgin olive oil and fry some chilis and spring onion pieces until very hot.
+            Get the prawns out of the fridge and put into the wok. (Take care in case the oil spits). Cook the prawns for about 5 minutes until they are partway cooked, and remove from the pan to put aside. Leave the sesame oil in the pan if possible as it will flavour the veg.
+            Add a tiny bit more oil to the wok if required and heat up. Cook the chili and garlic and add all the veg and stir thoroughly. Add the sesame seeds, if using.
+            Add salt and stir veg around for about 5 minutes. Add the prawns back into the pan and keep cooking until vegetables are done, but preferably they should still have a slight crunch to them. Keep tasting the veg to check for seasoning and crunchiness.
+            Keep an eye on the rice and when done drain and serve up with the stirfry. Add pickles and poppadoms on the side or a nice salad.
+            In a bowl, combine the cream cheese with cucumber and squeeze the juice of 1/2 lemon into the mixture. Season with salt and pepper to taste and stir well. Spread half of the mixture evenly into small serving glasses.
+            Add the mint leaves to the remaining mixture and stir. Evenly distribute between the glasses.
+            Refrigerate for at least 30 minutes before serving.
+            Put the squash and butter in a pan with 5 tbsp water. Cover and cook for 15 mins until the squash is tender. Mash with seasonin, generous amount of nutmeg and the grated parmesan (this is the stage you can put in fridge if preparing in advance)
+            Boil a pan of water with a generous pinch of saffron and some salt for 5 mins. Fry the mushrooms in the remaining oil. When the are nearly cooked, add the garlic so it browns and crisps but doesnt burn. Wilt the spinach in the microwave or a pan for approx 1 min. Reheat the squash if you need to at this stage.
+            Boil the lasagne in the saffron water for 1 min until just tender and drain. Take 2 warm plates and put a layer of spinach just slightly smaller than the lasagne on the bottom. Top with a square of lasagne, then a spread over a spoonful of squash, and add a few spinach leaves and then another square of pasta. Continue this until you have 4 layers of lasagne, then top off with a spoonful of squash.
+            Scatter round the garlic mushrooms, spoon over the dressing or you could put this in a bowl and allow guests to do their own, and top off with parmesan shavings.</item>
+        <item>Mix cottage cheese, 1 clove of garlic, cardamom and cloves thoroughly in a bowl. Cover and refrigerate until ready to serve.
+            Heat the butter in a frying pan over medium heat. Stir in the onion, ginger, green chilli and 2 cloves of garlic; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the spinach and cook until just wilted. Drain any excess liquid, and serve the spinach mixture over the seasoned cottage cheese.
+            Preheat the oven to 170 C / Gas 3. Line a round baking tin with baking parchment.
+            Combine all of the ingredients into a mixing bowl and stir well. Pour into the prepared baking tin. Cover the tin lightly with aluminium foil.
+            Bake in a preheated oven for 15 minutes. Remove from the oven and allow to cool fully in the tin. Carefully transfer the pudding to a serving plate and chill in the fridge for 1 hour. Serve cold.
+            The first thing to do is make the marinade for the prawns. Chop up a garlic clove, a green chili and a spring onion into bits (just the stalk not the leaves) and put in a bowl.
+            Add several large tablespoons of sesame oil to the bowl and blend using a hand blender (blending the marinade is optional). Alternatively, put in a blender jug.
+            Add the prawns to the bowl with the oil and mix thoroughly. Add more oil if required to ensure that there is enough to soak into the prawns.
+            Cover the bowl and put into the fridge to marinate for 15 minutes or ideally at least an hour. Halfway through that time give the prawns a good stir to ensure even coverage of the marinade.
+            In the meantime, wash brown rice in a saucepan, cover with water, turn on heat to bring to boil. Once boiling turn down the heat and keep simmering for about 20 to 30 minutes. For rice noodles or quinoa check the pack in advance for cooking instructions and follow them, keeping timing in mind.
+            Once rice is on to boil, wash all veg and chop into small even pieces and keep aside.
+            In a wok, add some extra virgin olive oil and fry some chilis and spring onion pieces until very hot.
+            Get the prawns out of the fridge and put into the wok. (Take care in case the oil spits). Cook the prawns for about 5 minutes until they are partway cooked, and remove from the pan to put aside. Leave the sesame oil in the pan if possible as it will flavour the veg.
+            Add a tiny bit more oil to the wok if required and heat up. Cook the chili and garlic and add all the veg and stir thoroughly. Add the sesame seeds, if using.
+            Add salt and stir veg around for about 5 minutes. Add the prawns back into the pan and keep cooking until vegetables are done, but preferably they should still have a slight crunch to them. Keep tasting the veg to check for seasoning and crunchiness.
+            Keep an eye on the rice and when done drain and serve up with the stirfry. Add pickles and poppadoms on the side or a nice salad.
+            In a bowl, combine the cream cheese with cucumber and squeeze the juice of 1/2 lemon into the mixture. Season with salt and pepper to taste and stir well. Spread half of the mixture evenly into small serving glasses.
+            Add the mint leaves to the remaining mixture and stir. Evenly distribute between the glasses.
+            Refrigerate for at least 30 minutes before serving.</item>
+        <item>4</item>
+        <item>Mix cottage cheese, 1 clove of garlic, cardamom and cloves thoroughly in a bowl. Cover
+            and refrigerate until ready to serve.
+            Heat the butter in a frying pan over medium heat. Stir in the onion, ginger, green chilli
+            and 2 cloves of garlic; cook and stir until the onion has softened and turned translucent,
+            about 5 minutes. Stir in the spinach and cook until just wilted. Drain any excess liquid,
+            and serve the spinach mixture over the seasoned cottage cheese.</item>
+        <item>6</item>
+        <item>Mix cottage cheese, 1 clove of garlic, cardamom and cloves thoroughly in a bowl. Cover and refrigerate until ready to serve.
+            Heat the butter in a frying pan over medium heat. Stir in the onion, ginger, green chilli and 2 cloves of garlic; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the spinach and cook until just wilted. Drain any excess liquid, and serve the spinach mixture over the seasoned cottage cheese.
+            Preheat the oven to 170 C / Gas 3. Line a round baking tin with baking parchment.
+            Combine all of the ingredients into a mixing bowl and stir well. Pour into the prepared baking tin. Cover the tin lightly with aluminium foil.
+            Bake in a preheated oven for 15 minutes. Remove from the oven and allow to cool fully in the tin. Carefully transfer the pudding to a serving plate and chill in the fridge for 1 hour. Serve cold.
+            The first thing to do is make the marinade for the prawns. Chop up a garlic clove, a green chili and a spring onion into bits (just the stalk not the leaves) and put in a bowl.
+            Add several large tablespoons of sesame oil to the bowl and blend using a hand blender (blending the marinade is optional). Alternatively, put in a blender jug.
+            Add the prawns to the bowl with the oil and mix thoroughly. Add more oil if required to ensure that there is enough to soak into the prawns.
+            Cover the bowl and put into the fridge to marinate for 15 minutes or ideally at least an hour. Halfway through that time give the prawns a good stir to ensure even coverage of the marinade.
+            In the meantime, wash brown rice in a saucepan, cover with water, turn on heat to bring to boil. Once boiling turn down the heat and keep simmering for about 20 to 30 minutes. For rice noodles or quinoa check the pack in advance for cooking instructions and follow them, keeping timing in mind.
+            Once rice is on to boil, wash all veg and chop into small even pieces and keep aside.
+            In a wok, add some extra virgin olive oil and fry some chilis and spring onion pieces until very hot.
+            Get the prawns out of the fridge and put into the wok. (Take care in case the oil spits). Cook the prawns for about 5 minutes until they are partway cooked, and remove from the pan to put aside. Leave the sesame oil in the pan if possible as it will flavour the veg.
+            Add a tiny bit more oil to the wok if required and heat up. Cook the chili and garlic and add all the veg and stir thoroughly. Add the sesame seeds, if using.
+            Add salt and stir veg around for about 5 minutes. Add the prawns back into the pan and keep cooking until vegetables are done, but preferably they should still have a slight crunch to them. Keep tasting the veg to check for seasoning and crunchiness.
+            Keep an eye on the rice and when done drain and serve up with the stirfry. Add pickles and poppadoms on the side or a nice salad.
+            In a bowl, combine the cream cheese with cucumber and squeeze the juice of 1/2 lemon into the mixture. Season with salt and pepper to taste and stir well. Spread half of the mixture evenly into small serving glasses.
+            Add the mint leaves to the remaining mixture and stir. Evenly distribute between the glasses.
+            Refrigerate for at least 30 minutes before serving.
+            Put the squash and butter in a pan with 5 tbsp water. Cover and cook for 15 mins until the squash is tender. Mash with seasonin, generous amount of nutmeg and the grated parmesan (this is the stage you can put in fridge if preparing in advance)
+            Boil a pan of water with a generous pinch of saffron and some salt for 5 mins. Fry the mushrooms in the remaining oil. When the are nearly cooked, add the garlic so it browns and crisps but doesnt burn. Wilt the spinach in the microwave or a pan for approx 1 min. Reheat the squash if you need to at this stage.
+            Boil the lasagne in the saffron water for 1 min until just tender and drain. Take 2 warm plates and put a layer of spinach just slightly smaller than the lasagne on the bottom. Top with a square of lasagne, then a spread over a spoonful of squash, and add a few spinach leaves and then another square of pasta. Continue this until you have 4 layers of lasagne, then top off with a spoonful of squash.
+            Scatter round the garlic mushrooms, spoon over the dressing or you could put this in a bowl and allow guests to do their own, and top off with parmesan shavings.
+            Preheat the oven to 190Â°C (gas 5). Grease and line the base of a 20cm sandwich tin.
+            Heat the oil in a deep heavy-based frying pan. Gently cook the onions for 5 minutes until transparent, then add the peppers and thyme. Add the garlic and cook for 20 minutes over a medium heat, stirring occasionally.
+            Add the olives and cheese to the vegetables, remove the thyme sprigs, if using fresh, and take the pan off the heat.
+            Season the beaten eggs with black pepper, then stir into the vegetables and mix well. Pour into the tin and bake for 35 minutes until golden and firm to the touch.</item>
+        <item>8</item>
+        <item>Mix cottage cheese, 1 clove of garlic, cardamom and cloves thoroughly in a bowl. Cover and refrigerate until ready to serve.
+            Heat the butter in a frying pan over medium heat. Stir in the onion, ginger, green chilli and 2 cloves of garlic; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the spinach and cook until just wilted. Drain any excess liquid, and serve the spinach mixture over the seasoned cottage cheese.
+            Preheat the oven to 170 C / Gas 3. Line a round baking tin with baking parchment.
+            Combine all of the ingredients into a mixing bowl and stir well. Pour into the prepared baking tin. Cover the tin lightly with aluminium foil.
+            Bake in a preheated oven for 15 minutes. Remove from the oven and allow to cool fully in the tin. Carefully transfer the pudding to a serving plate and chill in the fridge for 1 hour. Serve cold.
+            The first thing to do is make the marinade for the prawns. Chop up a garlic clove, a green chili and a spring onion into bits (just the stalk not the leaves) and put in a bowl.
+            Add several large tablespoons of sesame oil to the bowl and blend using a hand blender (blending the marinade is optional). Alternatively, put in a blender jug.
+            Add the prawns to the bowl with the oil and mix thoroughly. Add more oil if required to ensure that there is enough to soak into the prawns.
+            Cover the bowl and put into the fridge to marinate for 15 minutes or ideally at least an hour. Halfway through that time give the prawns a good stir to ensure even coverage of the marinade.
+            In the meantime, wash brown rice in a saucepan, cover with water, turn on heat to bring to boil. Once boiling turn down the heat and keep simmering for about 20 to 30 minutes. For rice noodles or quinoa check the pack in advance for cooking instructions and follow them, keeping timing in mind.
+            Once rice is on to boil, wash all veg and chop into small even pieces and keep aside.
+            In a wok, add some extra virgin olive oil and fry some chilis and spring onion pieces until very hot.
+            Get the prawns out of the fridge and put into the wok. (Take care in case the oil spits). Cook the prawns for about 5 minutes until they are partway cooked, and remove from the pan to put aside. Leave the sesame oil in the pan if possible as it will flavour the veg.
+            Add a tiny bit more oil to the wok if required and heat up. Cook the chili and garlic and add all the veg and stir thoroughly. Add the sesame seeds, if using.
+            Add salt and stir veg around for about 5 minutes. Add the prawns back into the pan and keep cooking until vegetables are done, but preferably they should still have a slight crunch to them. Keep tasting the veg to check for seasoning and crunchiness.
+            Keep an eye on the rice and when done drain and serve up with the stirfry. Add pickles and poppadoms on the side or a nice salad.</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+
+    <array name="recipe_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/squash_mushroom_lasagna_foreground</item>
+        <item>@drawable/cucumber_mint_verrines_foreground</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/ethiopian_wilted_spinach_foreground</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/red_pepper_feta_olive_frittata_foreground</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/sesame_prawns_foreground</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+
+    </array>
+
+
 </resources>

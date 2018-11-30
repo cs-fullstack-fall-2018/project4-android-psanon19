@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/red_pepper_feta_olive_frittata_background"/>
+    <foreground android:drawable="@mipmap/red_pepper_feta_olive_frittata_foreground"/>
+</adaptive-icon>
